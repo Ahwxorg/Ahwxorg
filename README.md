@@ -2,7 +2,7 @@ Also visit my [website](https://ahwx.org/), [blog](https://blog.ahwx.org) or [Ma
 
 ![Metrics](https://raw.githubusercontent.com/Ahwxorg/Ahwxorg/main/github-metrics.svg)
 
-# Latest blog posts:
+## Latest blog posts:
 <!-- feed start -->
 - 14 August - [the quest for a good browser](https://blog.ahwx.org/browser-quest)
 - 27 April - [eclipse; my new server](https://blog.ahwx.org/eclipse)
