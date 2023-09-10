@@ -19,3 +19,5 @@ jobs:
             https://blog.ahwx.org/feed.xml
       - if: ${{ steps.feed.outputs.changed == true }}
         uses: sarisia/actions-commit@master
+        with:
+          message: 'chore(readme.md): update blogs'
