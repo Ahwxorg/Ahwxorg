@@ -139,6 +139,7 @@
 
 ## TypeScript 
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [face-hh/bussin](https://github.com/face-hh/bussin) - An esolang in TypeScript, for heaven's sake.
 - [NyaomiDEV/Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
