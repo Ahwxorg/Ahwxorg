@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Nim](#nim)
@@ -72,6 +73,10 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
+
+## Haskell 
+
+- [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 
 ## JavaScript 
 
