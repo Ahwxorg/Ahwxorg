@@ -37,6 +37,7 @@
 
 ## C 
 
+- [UtkarshVerma/dwmblocks-async](https://github.com/UtkarshVerma/dwmblocks-async) - An efficient, lean, and asynchronous status feed generator for dwm.
 - [abrasive/shairport](https://github.com/abrasive/shairport) - Airtunes emulator! Shairport is no longer maintained.
 - [eiln/avd](https://github.com/eiln/avd) - Reverse-engineering the Apple Video Decoder (AVD)
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
