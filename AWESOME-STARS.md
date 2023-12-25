@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
+- [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Lua](#lua)
@@ -21,6 +22,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Roff](#roff)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -78,6 +80,10 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 
+## HTML 
+
+- [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
+
 ## Haskell 
 
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
@@ -123,6 +129,10 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
+## Roff 
+
+- [chadmed/asahi-overlay](https://github.com/chadmed/asahi-overlay) - Gentoo overlay for Apple Silicon support
+
 ## Rust 
 
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
@@ -134,6 +144,8 @@
 
 ## Shell 
 
+- [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+- [chadmed/asahi-gentoosupport](https://github.com/chadmed/asahi-gentoosupport) - Gentoo support files for Apple Silicon devices
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
