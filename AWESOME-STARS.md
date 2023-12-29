@@ -15,6 +15,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Nim](#nim)
@@ -88,6 +89,10 @@
 ## Haskell 
 
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
+
+## Java 
+
+- [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
 
 ## JavaScript 
 
