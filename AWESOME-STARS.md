@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -129,6 +130,7 @@
 
 ## Python 
 
+- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -152,6 +154,8 @@
 
 ## Shell 
 
+- [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
+- [davidovski/typr](https://github.com/davidovski/typr) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [chadmed/asahi-gentoosupport](https://github.com/chadmed/asahi-gentoosupport) - Gentoo support files for Apple Silicon devices
