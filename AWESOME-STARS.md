@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -23,7 +24,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
-- [Roff](#roff)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [KDE/kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -83,6 +84,10 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
+
+## HCL 
+
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 
 ## HTML 
 
@@ -138,10 +143,6 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 
-## Roff 
-
-- [chadmed/asahi-overlay](https://github.com/chadmed/asahi-overlay) - Gentoo overlay for Apple Silicon support
-
 ## Rust 
 
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
@@ -158,6 +159,7 @@
 - [davidovski/typr](https://github.com/davidovski/typr) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+- [chadmed/asahi-overlay](https://github.com/chadmed/asahi-overlay) - Gentoo overlay for Apple Silicon support
 - [chadmed/asahi-gentoosupport](https://github.com/chadmed/asahi-gentoosupport) - Gentoo support files for Apple Silicon devices
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
@@ -181,6 +183,7 @@
 
 ## TypeScript 
 
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
