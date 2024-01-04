@@ -24,6 +24,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Roff](#roff)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -135,6 +136,7 @@
 
 ## Python 
 
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
@@ -142,6 +144,10 @@
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+
+## Roff 
+
+- [chadmed/asahi-overlay](https://github.com/chadmed/asahi-overlay) - Gentoo overlay for Apple Silicon support
 
 ## Rust 
 
@@ -159,7 +165,6 @@
 - [davidovski/typr](https://github.com/davidovski/typr) - 
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
-- [chadmed/asahi-overlay](https://github.com/chadmed/asahi-overlay) - Gentoo overlay for Apple Silicon support
 - [chadmed/asahi-gentoosupport](https://github.com/chadmed/asahi-gentoosupport) - Gentoo support files for Apple Silicon devices
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
