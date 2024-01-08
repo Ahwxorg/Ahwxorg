@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [C](#c)
@@ -30,6 +31,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+
+## Assembly 
+
+- [stevennguyen/framework](https://github.com/stevennguyen/framework) - Ortholinear with a knob
 
 ## Astro 
 
@@ -80,6 +85,7 @@
 
 ## Go 
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [mautrix/whatsapp](https://github.com/mautrix/whatsapp) - A Matrix-WhatsApp puppeting bridge
@@ -139,6 +145,7 @@
 
 ## Python 
 
+- [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
@@ -212,6 +219,7 @@
 
 ## Vim Script 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [notthebee/dotfiles](https://github.com/notthebee/dotfiles) - Config files for my macOS workspace
 
 
