@@ -184,7 +184,7 @@
 - [jirutka/qemu-openrc](https://github.com/jirutka/qemu-openrc) - OpenRC init script for QEMU/KVM (for Gentoo and Alpine Linux)
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
-- [davidovski/typr](https://github.com/davidovski/typr) - 
+- [davidovski/typr](https://github.com/davidovski/typr) - a typing test for the terminal written in shell
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 - [chadmed/asahi-gentoosupport](https://github.com/chadmed/asahi-gentoosupport) - Gentoo support files for Apple Silicon devices
