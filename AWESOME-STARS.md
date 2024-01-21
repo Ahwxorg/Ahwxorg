@@ -221,7 +221,7 @@
 - [NyaomiDEV/Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
-- [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Fast fully keyboard driven todo app with GitHub integration and AI features
+- [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Food/drink sharing app
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
