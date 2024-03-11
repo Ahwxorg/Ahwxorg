@@ -86,7 +86,7 @@
 
 ## CSS 
 
-- [teamblueprint/web](https://github.com/teamblueprint/web) - Static HTML landing and documentation page for the Blueprint extension framework.
+- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
 - [davidtys/qutebrowser_dark_solarized](https://github.com/davidtys/qutebrowser_dark_solarized) - Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)
 
@@ -226,7 +226,7 @@
 
 ## TypeScript 
 
-- [teamblueprint/main](https://github.com/teamblueprint/main) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
+- [BlueprintFramework/main](https://github.com/BlueprintFramework/main) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
