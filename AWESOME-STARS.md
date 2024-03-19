@@ -188,6 +188,7 @@
 
 ## Rust 
 
+- [XuShaohua/nc](https://github.com/XuShaohua/nc) - Run *nix system calls directly in Rust
 - [StrataWM/strata](https://github.com/StrataWM/strata) - A cutting-edge, robust and sleek Wayland compositor with batteries included.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
