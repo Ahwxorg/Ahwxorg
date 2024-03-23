@@ -28,6 +28,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Stylus](#stylus)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -223,6 +224,10 @@
 - [hackorum/.dotfiles](https://github.com/hackorum/.dotfiles) - My minimal dotfiles
 - [oddlama/gentoo-install](https://github.com/oddlama/gentoo-install) - A gentoo installer with a TUI interface that supports systemd and OpenRC, EFI and BIOS, as well as variable disk layouts using ext4, zfs, btrfs, luks and mdraid.
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE's iLO 4 Firmware with access to previously inaccessible utilities
+
+## Stylus 
+
+- [lynnandtonic/a-single-div](https://github.com/lynnandtonic/a-single-div) - 🎨 CSS drawings with only one HTML element.
 
 ## Swift 
 
