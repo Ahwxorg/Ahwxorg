@@ -155,6 +155,7 @@
 
 ## Nix 
 
+- [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My MacOS and NixOS configurations, using home-manager, i3-gaps and sway
 
@@ -174,6 +175,7 @@
 
 ## Python 
 
+- [smartavionics/Cura](https://github.com/smartavionics/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
