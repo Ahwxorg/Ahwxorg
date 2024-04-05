@@ -49,6 +49,7 @@
 
 ## C 
 
+- [chadmed/radio-timing-pips](https://github.com/chadmed/radio-timing-pips) - 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [jcs/sdorfehs](https://github.com/jcs/sdorfehs) - A tiling window manager
@@ -122,6 +123,7 @@
 
 ## HTML 
 
+- [JakeGinesin/jakegines.in](https://github.com/JakeGinesin/jakegines.in) - The open-source code for my personal website, jakegines.in
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
 - [mpsq/arewewaylandyet](https://github.com/mpsq/arewewaylandyet) - Sources for https://arewewaylandyet.com
 
