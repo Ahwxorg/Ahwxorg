@@ -214,6 +214,7 @@
 
 ## Shell 
 
+- [JakeGinesin/dotfiles](https://github.com/JakeGinesin/dotfiles) - My current dotfiles
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
 - [jirutka/qemu-openrc](https://github.com/jirutka/qemu-openrc) - OpenRC init script for QEMU/KVM (for Gentoo and Alpine Linux)
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
