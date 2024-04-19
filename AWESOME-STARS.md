@@ -107,6 +107,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -187,6 +188,7 @@
 
 ## Python 
 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [smartavionics/Cura](https://github.com/smartavionics/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
