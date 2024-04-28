@@ -33,9 +33,11 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Zig](#zig)
 
 ## Assembly 
 
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [stevennguyen/framework](https://github.com/stevennguyen/framework) - Ortholinear with a knob
 
 ## Astro 
@@ -49,6 +51,7 @@
 
 ## C 
 
+- [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [DisplayLink/evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [chadmed/radio-timing-pips](https://github.com/chadmed/radio-timing-pips) - 
@@ -82,6 +85,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -152,6 +156,7 @@
 
 ## Lua 
 
+- [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [rainbowhxch/accelerated-jk.nvim](https://github.com/rainbowhxch/accelerated-jk.nvim) - A neovim plugin to accelerate up-down moving!
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) - 🍁 Fun little plugin that can be used as a screensaver and on your dashboard
 - [luakit/luakit](https://github.com/luakit/luakit) - Fast, small, webkit based browser framework extensible by Lua.
@@ -191,6 +196,7 @@
 
 ## Python 
 
+- [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) - 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [smartavionics/Cura](https://github.com/smartavionics/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
@@ -279,6 +285,10 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [notthebee/dotfiles](https://github.com/notthebee/dotfiles) - Config files for my macOS workspace
+
+## Zig 
+
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
 
 ## License
