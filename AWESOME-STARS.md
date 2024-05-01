@@ -27,6 +27,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Stylus](#stylus)
@@ -214,6 +215,10 @@
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+
+## Ruby 
+
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## Rust 
 
