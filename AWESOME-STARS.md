@@ -101,6 +101,7 @@
 
 ## CSS 
 
+- [prplwtf/www](https://github.com/prplwtf/www) - Unreadable website source code with more prettier errors than functionality.
 - [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
 - [davidtys/qutebrowser_dark_solarized](https://github.com/davidtys/qutebrowser_dark_solarized) - Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)
@@ -116,6 +117,7 @@
 
 ## Go 
 
+- [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [darkhz/bluetuith](https://github.com/darkhz/bluetuith) - A TUI bluetooth manager for Linux.
@@ -184,7 +186,6 @@
 
 ## Others 
 
-- [prplwtf/www](https://github.com/prplwtf/www) - Unreadable website source code with more prettier errors than functionality.
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [flurples/C-13X](https://github.com/flurples/C-13X) - alice qaz-ish board designed by flurples
