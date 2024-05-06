@@ -186,6 +186,7 @@
 
 ## Others 
 
+- [badgeteam/why2025-hardware](https://github.com/badgeteam/why2025-hardware) - Hardware design files for the WHY2025 badge
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [flurples/C-13X](https://github.com/flurples/C-13X) - alice qaz-ish board designed by flurples
