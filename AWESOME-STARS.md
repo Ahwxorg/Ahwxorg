@@ -52,6 +52,7 @@
 
 ## C 
 
+- [ShaqeelAhmad/swiv](https://github.com/ShaqeelAhmad/swiv) - Fork of sxiv for wayland.
 - [michaelforney/velox](https://github.com/michaelforney/velox) - velox window manager
 - [inclement/vivarium](https://github.com/inclement/vivarium) - A dynamic tiling Wayland compositor using wlroots
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
@@ -101,7 +102,7 @@
 
 ## CSS 
 
-- [prplwtf/www](https://github.com/prplwtf/www) - Unreadable website source code with more prettier errors than functionality.
+- [prplwtf/www](https://github.com/prplwtf/www) - My personal website - open source under MIT.
 - [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
 - [davidtys/qutebrowser_dark_solarized](https://github.com/davidtys/qutebrowser_dark_solarized) - Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)
@@ -228,6 +229,7 @@
 
 ## Rust 
 
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [XuShaohua/nc](https://github.com/XuShaohua/nc) - Run *nix system calls directly in Rust
 - [StrataWM/strata](https://github.com/StrataWM/strata) - A cutting-edge, robust and sleek Wayland compositor with batteries included.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
