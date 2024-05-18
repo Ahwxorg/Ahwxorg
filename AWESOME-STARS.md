@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -118,8 +119,13 @@
 
 - [gentoo/gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
 
+## Emacs Lisp 
+
+- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+
 ## Go 
 
+- [mrusme/caldr](https://github.com/mrusme/caldr) - A lightweight CLI / TUI calendar that supports CalDAV
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
@@ -205,6 +211,7 @@
 
 ## Python 
 
+- [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
@@ -231,6 +238,7 @@
 
 ## Rust 
 
+- [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [XuShaohua/nc](https://github.com/XuShaohua/nc) - Run *nix system calls directly in Rust
 - [StrataWM/strata](https://github.com/StrataWM/strata) - A cutting-edge, robust and sleek Wayland compositor with batteries included.
