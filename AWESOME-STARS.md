@@ -53,6 +53,7 @@
 
 ## C 
 
+- [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [ShaqeelAhmad/swiv](https://github.com/ShaqeelAhmad/swiv) - Fork of sxiv for wayland.
 - [michaelforney/velox](https://github.com/michaelforney/velox) - velox window manager
@@ -253,6 +254,7 @@
 
 ## Shell 
 
+- [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
 - [JakeGinesin/dotfiles](https://github.com/JakeGinesin/dotfiles) - My current dotfiles
 - [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish shell.
