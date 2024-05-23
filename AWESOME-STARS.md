@@ -215,7 +215,7 @@
 
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
-- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element (formerly Riot), PRs with new themes are welcome!
+- [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) - 
