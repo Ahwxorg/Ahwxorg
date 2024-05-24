@@ -15,12 +15,14 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Nim](#nim)
@@ -113,16 +115,22 @@
 
 ## Dart 
 
+- [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
 
 ## Dockerfile 
 
+- [rapenne-s/build-gentoo-packages-for-me](https://github.com/rapenne-s/build-gentoo-packages-for-me) - Use github actions to generate Gentoo packages instead of compiling locally
 - [gentoo/gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
 
 ## Emacs Lisp 
 
 - [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+
+## GDScript 
+
+- [NeoSpark314/BeepSaber](https://github.com/NeoSpark314/BeepSaber) - A basic implementation of the Beat Saber VR game mechanic in the Godot Game Engine for Oculus Quest (and other VR headsets)
 
 ## Go 
 
@@ -169,6 +177,10 @@
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+
+## Kotlin 
+
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 
 ## Lua 
 
