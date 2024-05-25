@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
 - [mrusme/caldr](https://github.com/mrusme/caldr) - A lightweight CLI / TUI calendar that supports CalDAV
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
