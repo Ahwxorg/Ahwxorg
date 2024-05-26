@@ -170,6 +170,7 @@
 
 ## JavaScript 
 
+- [prplwtf/Gravity](https://github.com/prplwtf/Gravity) - (Work in progress) Gravity is an open-source alternative for blogs, allowing for easy page configuration and ultimate flexibility.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
