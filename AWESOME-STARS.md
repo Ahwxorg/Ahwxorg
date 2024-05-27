@@ -27,6 +27,7 @@
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Nix](#nix)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -209,9 +210,12 @@
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My MacOS and NixOS configurations, using home-manager, i3-gaps and sway
 
-## Others 
+## OpenSCAD 
 
 - [badgeteam/why2025-hardware](https://github.com/badgeteam/why2025-hardware) - Hardware design files for the WHY2025 badge
+
+## Others 
+
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [flurples/C-13X](https://github.com/flurples/C-13X) - alice qaz-ish board designed by flurples
