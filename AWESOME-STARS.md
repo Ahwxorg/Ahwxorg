@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
 - [mrusme/caldr](https://github.com/mrusme/caldr) - A lightweight CLI / TUI calendar that supports CalDAV
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny Discord app
