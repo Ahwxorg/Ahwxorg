@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
 - [mrusme/caldr](https://github.com/mrusme/caldr) - A lightweight CLI / TUI calendar that supports CalDAV
@@ -172,7 +173,7 @@
 
 ## JavaScript 
 
-- [prplwtf/writea](https://github.com/prplwtf/writea) - (Work in progress) Writea is an open-source alternative for blogs, allowing for easy page configuration and ultimate flexibility.
+- [prplwtf/writea](https://github.com/prplwtf/writea) - Writea is a fast open-source alternative for blogs. Create custom themes, write posts with markdown, configure your page and much more.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
@@ -188,6 +189,7 @@
 
 ## Lua 
 
+- [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
 - [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) - Neovim Lua plugin to paste image from clipboard.
 - [rainbowhxch/accelerated-jk.nvim](https://github.com/rainbowhxch/accelerated-jk.nvim) - A neovim plugin to accelerate up-down moving!
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) - 🍁 Fun little plugin that can be used as a screensaver and on your dashboard
