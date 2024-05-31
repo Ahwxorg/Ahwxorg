@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
@@ -173,7 +174,7 @@
 
 ## JavaScript 
 
-- [prplwtf/writea](https://github.com/prplwtf/writea) - Writea is a fast open-source alternative for blogs. Create custom themes, write posts with markdown, configure your page and much more.
+- [prplwtf/writea](https://github.com/prplwtf/writea) - Fast and comfy open-source alternative for blogs. Write posts with ✏️ Markdown, configure your blog with ⚙️ YAML, theme your page with 🎨 CSS and much more!
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
