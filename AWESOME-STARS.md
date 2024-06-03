@@ -56,6 +56,7 @@
 
 ## C 
 
+- [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [ShaqeelAhmad/swiv](https://github.com/ShaqeelAhmad/swiv) - Fork of sxiv for wayland.
