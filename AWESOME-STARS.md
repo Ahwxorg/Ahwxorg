@@ -47,6 +47,7 @@
 
 ## Astro 
 
+- [evadecker/eva.town](https://github.com/evadecker/eva.town) - A digital garden by Eva Decker, design engineer.
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and dropdowns.
 
@@ -236,6 +237,7 @@
 
 ## Python 
 
+- [bernardolsp/nginx-manager-watcher](https://github.com/bernardolsp/nginx-manager-watcher) - 
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [aaronraimist/element-themes](https://github.com/aaronraimist/element-themes) - A place to share themes for Element. PRs with new themes are welcome!
