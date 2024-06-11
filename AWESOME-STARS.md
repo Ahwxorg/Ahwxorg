@@ -223,6 +223,7 @@
 
 ## Others 
 
+- [meyskens/intro-to-k8s](https://github.com/meyskens/intro-to-k8s) - 
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
 - [flurples/C-13X](https://github.com/flurples/C-13X) - alice qaz-ish board designed by flurples
