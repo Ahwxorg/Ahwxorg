@@ -189,6 +189,7 @@
 
 ## Kotlin 
 
+- [oxygen-updater/oxygen-updater](https://github.com/oxygen-updater/oxygen-updater) - Oxygen Updater is a third-party app for OnePlus devices that allows you to install official OTA (over-the-air) updates ASAP. Ensure your device is up-to-date — it's quick, easy, and free!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 
 ## Lua 
