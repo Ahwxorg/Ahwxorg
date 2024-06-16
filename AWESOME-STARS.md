@@ -57,6 +57,7 @@
 
 ## C 
 
+- [jarusll/keydogger](https://github.com/jarusll/keydogger) - 
 - [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -137,6 +138,7 @@
 
 ## Go 
 
+- [abeleinin/goki](https://github.com/abeleinin/goki) - An intelligent flashcard management tool for the terminal!
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
@@ -174,6 +176,7 @@
 
 ## Java 
 
+- [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
 
 ## JavaScript 
