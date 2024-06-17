@@ -57,7 +57,7 @@
 
 ## C 
 
-- [jarusll/keydogger](https://github.com/jarusll/keydogger) - 
+- [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -119,6 +119,7 @@
 
 ## Dart 
 
+- [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
 - [TheLastGimbus/GooglePhotosTakeoutHelper](https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper) - Script that organizes the Google Takeout archive into one big chronological folder
@@ -228,6 +229,7 @@
 
 ## Others 
 
+- [LineageOS/android](https://github.com/LineageOS/android) - 
 - [meyskens/intro-to-k8s](https://github.com/meyskens/intro-to-k8s) - 
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
 - [coseyfannitutti/discipline](https://github.com/coseyfannitutti/discipline) - 65% keyboard assembled with only through hole components, including usb type-c
