@@ -275,6 +275,7 @@
 
 ## Rust 
 
+- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
