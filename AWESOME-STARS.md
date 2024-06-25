@@ -38,6 +38,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 - [Zig](#zig)
 
 ## Assembly 
@@ -354,6 +355,10 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [notthebee/dotfiles](https://github.com/notthebee/dotfiles) - Config files for my macOS workspace
+
+## Vue 
+
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 
 ## Zig 
 
