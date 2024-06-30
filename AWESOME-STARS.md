@@ -114,6 +114,7 @@
 
 ## CSS 
 
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [prplwtf/www](https://github.com/prplwtf/www) - My personal website - open source under MIT.
 - [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
