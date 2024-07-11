@@ -224,6 +224,7 @@
 
 ## Nix 
 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
