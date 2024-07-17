@@ -259,6 +259,8 @@
 
 ## Python 
 
+- [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
+- [mirukana/pixcat](https://github.com/mirukana/pixcat) - CLI and Python 3.6+ API to display images on a kitty terminal with optional resizing.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [bernardolsp/nginx-manager-watcher](https://github.com/bernardolsp/nginx-manager-watcher) - 
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
