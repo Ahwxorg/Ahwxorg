@@ -322,7 +322,7 @@
 - [kawarimidoll/gh-graph](https://github.com/kawarimidoll/gh-graph) - GitHub contribution graph in your terminal
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [JakeGinesin/dotfiles](https://github.com/JakeGinesin/dotfiles) - My current dotfiles
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~13,000 unique cloners as of May '24, 580+ Homebrew installs 6/23-6/24
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~18,000 unique cloners as of July '24, 700+ Homebrew installs 7/23-7/24
 - [jirutka/qemu-openrc](https://github.com/jirutka/qemu-openrc) - OpenRC init script for QEMU/KVM (for Gentoo and Alpine Linux)
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
