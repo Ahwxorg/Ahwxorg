@@ -253,6 +253,7 @@
 
 ## Others 
 
+- [mrwm/roPlug](https://github.com/mrwm/roPlug) - ATMega32U4 on a USB C male plug.
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [meyskens/intro-to-k8s](https://github.com/meyskens/intro-to-k8s) - 
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
@@ -362,6 +363,7 @@
 
 ## TypeScript 
 
+- [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and ripple effects for a cohesive, customizable user experience.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
