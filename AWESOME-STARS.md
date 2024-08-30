@@ -100,7 +100,7 @@
 
 ## C++ 
 
-- [mattkae/miracle-wm](https://github.com/mattkae/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
+- [miracle-window-manager/miracle-wm](https://github.com/miracle-window-manager/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -275,6 +275,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [dsanson/termpdf.py](https://github.com/dsanson/termpdf.py) - A graphical pdf and epub reader that works inside the kitty terminal
 - [mirukana/pixcat](https://github.com/mirukana/pixcat) - CLI and Python 3.6+ API to display images on a kitty terminal with optional resizing.
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
