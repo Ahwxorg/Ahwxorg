@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
+- [Awk](#awk)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -56,6 +57,10 @@
 ## AutoHotkey 
 
 - [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows
+
+## Awk 
+
+- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## C 
 
