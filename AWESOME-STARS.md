@@ -64,6 +64,7 @@
 
 ## C 
 
+- [pebble-dev/RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 - [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [cs50/libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
@@ -132,6 +133,7 @@
 
 ## Dart 
 
+- [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Rebble device companion app for iOS and Android
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
@@ -372,6 +374,7 @@
 
 ## TypeScript 
 
+- [noahbaron91/onlyvisitonce](https://github.com/noahbaron91/onlyvisitonce) - A website you can only visit once
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and ripple effects for a cohesive, customizable user experience.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
