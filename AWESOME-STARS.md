@@ -154,7 +154,8 @@
 
 ## Go 
 
-- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song matching algorithm.
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
