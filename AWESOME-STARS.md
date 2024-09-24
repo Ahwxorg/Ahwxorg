@@ -161,7 +161,7 @@
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [RasmusLindroth/tut](https://github.com/RasmusLindroth/tut) - TUI for Mastodon with vim inspired keys
-- [abeleinin/goki](https://github.com/abeleinin/goki) - An intelligent flashcard management tool for the terminal!
+- [abeleinin/goki](https://github.com/abeleinin/goki) - Anki-like flashcard management tool for the terminal!
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
