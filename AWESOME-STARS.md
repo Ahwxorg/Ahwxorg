@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [mrusme/reader](https://github.com/mrusme/reader) - reader is for your command line what the “readability” view is for modern browsers: A lightweight tool offering better readability of web pages on the CLI.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song recognition algorithm.
 - [diamondburned/gotktrix](https://github.com/diamondburned/gotktrix) - Matrix client in Go and GTK4
@@ -199,6 +200,7 @@
 
 ## Java 
 
+- [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [webbukkit/dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
@@ -249,6 +251,7 @@
 
 ## Nix 
 
+- [ashhhleyyy/forest](https://github.com/ashhhleyyy/forest) - My nixos configs and things
 - [chfanghr/frps-docker](https://github.com/chfanghr/frps-docker) - A set of nix expressions to generate docker images that run frp services
 - [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
@@ -319,6 +322,8 @@
 
 ## Rust 
 
+- [oppiliappan/eva](https://github.com/oppiliappan/eva) - a calculator REPL, similar to bc(1)
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
