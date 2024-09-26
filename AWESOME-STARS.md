@@ -397,7 +397,7 @@
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [rajatkulkarni95/hckrnws](https://github.com/rajatkulkarni95/hckrnws) - A custom frontend for a better reading experience of HackerNews
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [face-hh/bussin](https://github.com/face-hh/bussin) - An esolang in TypeScript, for heaven's sake.
 - [NyaomiDEV/Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
