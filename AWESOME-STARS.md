@@ -346,6 +346,7 @@
 
 ## Shell 
 
+- [mrusme/dotfiles](https://github.com/mrusme/dotfiles) - dotfiles
 - [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
@@ -411,7 +412,6 @@
 
 ## Vim Script 
 
-- [mrusme/dotfiles](https://github.com/mrusme/dotfiles) - dotfiles
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [notthebee/dotfiles](https://github.com/notthebee/dotfiles) - Config files for my macOS workspace
