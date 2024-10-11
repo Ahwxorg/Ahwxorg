@@ -28,6 +28,7 @@
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Nix](#nix)
+- [Objective-C](#objective-c)
 - [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
@@ -106,6 +107,8 @@
 
 ## C++ 
 
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [shezdy/hyprsplit](https://github.com/shezdy/hyprsplit) - hyprland plugin for separate sets of workspaces on each monitor
 - [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [hyprwm/hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
@@ -202,6 +205,7 @@
 
 ## Java 
 
+- [CASELOAD7000/knockback-sync](https://github.com/CASELOAD7000/knockback-sync) - Synchronizes player knockback for smoother gameplay.
 - [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
@@ -264,6 +268,10 @@
 - [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My MacOS and NixOS configurations, using home-manager, i3-gaps and sway
+
+## Objective-C 
+
+- [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
 
 ## OpenSCAD 
 
@@ -390,6 +398,7 @@
 
 ## TypeScript 
 
+- [kothavade/hm-search](https://github.com/kothavade/hm-search) - Home-manager options search site
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [noahbaron91/onlyvisitonce](https://github.com/noahbaron91/onlyvisitonce) - A website you can only visit once
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and ripple effects for a cohesive, customizable user experience.
