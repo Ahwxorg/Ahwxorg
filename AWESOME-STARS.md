@@ -40,6 +40,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
 - [Zig](#zig)
 
@@ -138,7 +139,6 @@
 
 ## Dart 
 
-- [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Rebble device companion app for iOS and Android
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [commetchat/commet](https://github.com/commetchat/commet) - Your space to connect
 - [syphon-org/syphon](https://github.com/syphon-org/syphon) - ⚗️  a privacy centric matrix client
@@ -228,6 +228,7 @@
 
 ## Kotlin 
 
+- [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Rebble device companion app for iOS and Android
 - [KieronQuinn/DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
 - [oxygen-updater/oxygen-updater](https://github.com/oxygen-updater/oxygen-updater) - Oxygen Updater is a third-party app for OnePlus devices that allows you to install official OTA (over-the-air) updates ASAP. Ensure your device is up-to-date — it's quick, easy, and free!
@@ -400,6 +401,7 @@
 
 ## TypeScript 
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
 - [kothavade/hm-search](https://github.com/kothavade/hm-search) - Home-manager options search site
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [noahbaron91/onlyvisitonce](https://github.com/noahbaron91/onlyvisitonce) - A website you can only visit once
@@ -425,9 +427,14 @@
 
 ## Vim Script 
 
+- [vigoux/LanguageTool.nvim](https://github.com/vigoux/LanguageTool.nvim) - An asynchronous grammar checker for Neovim using LanguageTool
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [notthebee/dotfiles](https://github.com/notthebee/dotfiles) - Config files for my macOS workspace
+
+## Vim Snippet 
+
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
 
 ## Vue 
 
