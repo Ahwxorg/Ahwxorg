@@ -282,6 +282,7 @@
 
 ## Others 
 
+- [nyoom-engineering/base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) - The base16 dark and light versions of oxocarbon, inspired by IBM Carbon
 - [mrwm/roPlug](https://github.com/mrwm/roPlug) - ATMega32U4 on a USB C male plug.
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [meyskens/intro-to-k8s](https://github.com/meyskens/intro-to-k8s) - 
