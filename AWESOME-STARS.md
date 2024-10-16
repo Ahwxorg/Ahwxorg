@@ -214,6 +214,7 @@
 
 ## JavaScript 
 
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 - [prplwtf/color-trainer](https://github.com/prplwtf/color-trainer) - Learn to pick hex colors in the wild!
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [prplwtf/writea](https://github.com/prplwtf/writea) - Fast and comfy open-source alternative for blogs. Write posts with ✏️ Markdown, configure your blog with ⚙️ YAML, theme your page with 🎨 CSS and much more!
@@ -302,6 +303,7 @@
 
 ## Python 
 
+- [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [marcolivierarsenault/moonraker-home-assistant](https://github.com/marcolivierarsenault/moonraker-home-assistant) - Home Assistant integration for Moonraker, Klipper and Mainsail
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
