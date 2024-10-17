@@ -214,6 +214,7 @@
 
 ## JavaScript 
 
+- [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 - [prplwtf/color-trainer](https://github.com/prplwtf/color-trainer) - Learn to pick hex colors in the wild!
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
@@ -261,6 +262,7 @@
 
 ## Nix 
 
+- [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [ashhhleyyy/forest](https://github.com/ashhhleyyy/forest) - My nixos configs and things
 - [chfanghr/frps-docker](https://github.com/chfanghr/frps-docker) - A set of nix expressions to generate docker images that run frp services
 - [elythh/nixvim](https://github.com/elythh/nixvim) - ❄️ my neovim config using nixvim
