@@ -262,6 +262,7 @@
 
 ## Nix 
 
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [ashhhleyyy/forest](https://github.com/ashhhleyyy/forest) - My nixos configs and things
 - [chfanghr/frps-docker](https://github.com/chfanghr/frps-docker) - A set of nix expressions to generate docker images that run frp services
