@@ -444,6 +444,7 @@
 
 ## Vue 
 
+- [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 
 ## Zig 
