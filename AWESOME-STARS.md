@@ -214,6 +214,7 @@
 
 ## JavaScript 
 
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [KorySchneider/wikit](https://github.com/KorySchneider/wikit) - Wikipedia summaries from the command line
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 - [prplwtf/color-trainer](https://github.com/prplwtf/color-trainer) - Learn to pick hex colors in the wild!
