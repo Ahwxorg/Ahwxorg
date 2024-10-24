@@ -408,11 +408,12 @@
 
 ## TypeScript 
 
+- [resend/resend-node](https://github.com/resend/resend-node) - Resend's Official Node.js SDK
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
 - [kothavade/hm-search](https://github.com/kothavade/hm-search) - Home-manager options search site
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-- [noahbaron91/onlyvisitonce](https://github.com/noahbaron91/onlyvisitonce) - A website you can only visit once
+- [nbaron1/onlyvisitonce](https://github.com/nbaron1/onlyvisitonce) - A website you can only visit once
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and ripple effects for a cohesive, customizable user experience.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
