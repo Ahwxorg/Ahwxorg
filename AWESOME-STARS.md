@@ -365,6 +365,7 @@
 
 ## Shell 
 
+- [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [mrusme/dotfiles](https://github.com/mrusme/dotfiles) - dotfiles
 - [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
 - [beeper/beepy](https://github.com/beeper/beepy) - Beepy
