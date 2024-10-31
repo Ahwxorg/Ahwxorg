@@ -409,6 +409,7 @@
 
 ## TypeScript 
 
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [resend/resend-node](https://github.com/resend/resend-node) - Resend's Official Node.js SDK
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication library for TypeScript
