@@ -263,6 +263,7 @@
 
 ## Nix 
 
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [ashhhleyyy/forest](https://github.com/ashhhleyyy/forest) - My nixos configs and things
@@ -287,6 +288,7 @@
 
 ## Others 
 
+- [bdamja/Hippo-Practice](https://github.com/bdamja/Hippo-Practice) - Singleplayer practice map designed for practicing structures, such as hippos, on Hypixel Bridge maps.
 - [nyoom-engineering/base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) - The base16 dark and light versions of oxocarbon, inspired by IBM Carbon
 - [mrwm/roPlug](https://github.com/mrwm/roPlug) - ATMega32U4 on a USB C male plug.
 - [LineageOS/android](https://github.com/LineageOS/android) - 
@@ -342,6 +344,7 @@
 
 ## Rust 
 
+- [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [allie-wake-up/swaycons](https://github.com/allie-wake-up/swaycons) - Window Icons in Sway with Nerd Fonts
 - [oppiliappan/eva](https://github.com/oppiliappan/eva) - a calculator REPL, similar to bc(1)
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -438,6 +441,7 @@
 
 ## Vim Script 
 
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vigoux/LanguageTool.nvim](https://github.com/vigoux/LanguageTool.nvim) - An asynchronous grammar checker for Neovim using LanguageTool
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
