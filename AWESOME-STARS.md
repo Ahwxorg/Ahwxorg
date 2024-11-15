@@ -239,6 +239,7 @@
 
 ## Lua 
 
+- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Establish good command workflow and quit bad habit
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
@@ -263,6 +264,7 @@
 
 ## Nix 
 
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
@@ -345,6 +347,8 @@
 
 ## Rust 
 
+- [mat-1/metasearch2](https://github.com/mat-1/metasearch2) - a cute metasearch engine
+- [dangreco/gnome-egpu](https://github.com/dangreco/gnome-egpu) - eGPU switcher for GNOME using udev rules
 - [ammgws/autotiling-rs](https://github.com/ammgws/autotiling-rs) - Autotiling for sway (and possibly i3)
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [allie-wake-up/swaycons](https://github.com/allie-wake-up/swaycons) - Window Icons in Sway with Nerd Fonts
@@ -370,6 +374,7 @@
 
 ## Shell 
 
+- [ewagner12/all-ways-egpu](https://github.com/ewagner12/all-ways-egpu) - Configure eGPU as primary under Linux Wayland desktops
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [mrusme/dotfiles](https://github.com/mrusme/dotfiles) - dotfiles
 - [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
