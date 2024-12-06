@@ -66,6 +66,7 @@
 
 ## C 
 
+- [lemonjesus/iPodBluetooth](https://github.com/lemonjesus/iPodBluetooth) - the code, design, and other files for my custom Bluetooth Audio transmitter board designed for use with iPods
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
 - [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [pebble-dev/RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
