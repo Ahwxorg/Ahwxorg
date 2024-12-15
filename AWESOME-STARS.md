@@ -66,6 +66,7 @@
 
 ## C 
 
+- [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [lemonjesus/iPodBluetooth](https://github.com/lemonjesus/iPodBluetooth) - the code, design, and other files for my custom Bluetooth Audio transmitter board designed for use with iPods
 - [cathugger/mkp224o](https://github.com/cathugger/mkp224o) - vanity address generator for tor onion v3 (ed25519) hidden services
@@ -133,6 +134,7 @@
 
 ## CSS 
 
+- [JamsRepos/Jamfin](https://github.com/JamsRepos/Jamfin) - Bringing a modern, sleek glassmorphism design to Jellyfin, enhancing your media server's aesthetics.
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
@@ -433,6 +435,7 @@
 
 ## TypeScript 
 
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [resend/resend-node](https://github.com/resend/resend-node) - Resend's Official Node.js SDK
