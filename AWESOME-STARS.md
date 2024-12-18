@@ -326,6 +326,7 @@
 
 ## Python 
 
+- [bb-Ricardo/check_redfish](https://github.com/bb-Ricardo/check_redfish) - A monitoring/inventory plugin to check components and health status of systems which support Redfish. It will also create a inventory of all components of a system.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
