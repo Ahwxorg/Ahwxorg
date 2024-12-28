@@ -9,6 +9,7 @@
 - [Astro](#astro)
 - [AutoHotkey](#autohotkey)
 - [Awk](#awk)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -64,6 +65,10 @@
 ## Awk 
 
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+
+## Batchfile 
+
+- [n4ru/IVprep](https://github.com/n4ru/IVprep) - Downgrade any xx30 series ThinkPad to an 1vyrain compatible BIOS version.
 
 ## C 
 
@@ -328,6 +333,7 @@
 
 ## Perl 
 
+- [gch1p/thinkpad-bios-software-flashing-guide](https://github.com/gch1p/thinkpad-bios-software-flashing-guide) - flashing coreboot on thinkpads without external programmer
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
 
 ## Python 
