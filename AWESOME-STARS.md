@@ -338,6 +338,7 @@
 
 ## Python 
 
+- [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [bb-Ricardo/check_redfish](https://github.com/bb-Ricardo/check_redfish) - A monitoring/inventory plugin to check components and health status of systems which support Redfish. It will also create a inventory of all components of a system.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
