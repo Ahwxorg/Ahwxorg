@@ -312,6 +312,7 @@
 
 ## Others 
 
+- [Evv1L/thinkpad-x230-upgrades](https://github.com/Evv1L/thinkpad-x230-upgrades) - List of upgrades for ThinkPad x230
 - [bdamja/Hippo-Practice](https://github.com/bdamja/Hippo-Practice) - Singleplayer practice map designed for practicing structures, such as hippos, on Hypixel Bridge maps.
 - [nyoom-engineering/base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) - The base16 dark and light versions of oxocarbon, inspired by IBM Carbon
 - [mrwm/roPlug](https://github.com/mrwm/roPlug) - ATMega32U4 on a USB C male plug.
@@ -338,6 +339,7 @@
 
 ## Python 
 
+- [osresearch/pdfcal](https://github.com/osresearch/pdfcal) - Page-per-day calendar generator for Remarkable tablet
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [bb-Ricardo/check_redfish](https://github.com/bb-Ricardo/check_redfish) - A monitoring/inventory plugin to check components and health status of systems which support Redfish. It will also create a inventory of all components of a system.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -404,6 +406,7 @@
 
 ## Shell 
 
+- [wdbm/cyberDeck_2022](https://github.com/wdbm/cyberDeck_2022) - 
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 - [ewagner12/all-ways-egpu](https://github.com/ewagner12/all-ways-egpu) - Configure eGPU as primary under Linux Wayland desktops
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
