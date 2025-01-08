@@ -291,6 +291,7 @@
 
 ## Nix 
 
+- [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
@@ -341,6 +342,7 @@
 
 ## Python 
 
+- [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [osresearch/pdfcal](https://github.com/osresearch/pdfcal) - Page-per-day calendar generator for Remarkable tablet
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [bb-Ricardo/check_redfish](https://github.com/bb-Ricardo/check_redfish) - A monitoring/inventory plugin to check components and health status of systems which support Redfish. It will also create a inventory of all components of a system.
