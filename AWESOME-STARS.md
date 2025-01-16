@@ -219,6 +219,7 @@
 
 ## HTML 
 
+- [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [JakeGinesin/jakegines.in](https://github.com/JakeGinesin/jakegines.in) - The open-source code for my personal website, jakegines.in
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
@@ -285,6 +286,7 @@
 
 ## Makefile 
 
+- [moduloindustries/thinkeys](https://github.com/moduloindustries/thinkeys) - Split ortholinear custom replacement keyboard with TrackPoint for ThinkPad laptops.
 - [mkubecek/vmware-host-modules](https://github.com/mkubecek/vmware-host-modules) - Patches needed to build VMware (Player and Workstation) host modules against recent kernels
 - [AsahiLinux/asahi-audio](https://github.com/AsahiLinux/asahi-audio) - Userspace audio for Asahi Linux
 
