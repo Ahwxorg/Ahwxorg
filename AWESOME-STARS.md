@@ -412,7 +412,7 @@
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [tauri-apps/cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2) - Rust on mobile made easy!
 - [IvarWithoutBones/zebra](https://github.com/IvarWithoutBones/zebra) - A microkernel written in Rust, targeting RISC-V
