@@ -222,7 +222,6 @@
 ## HTML 
 
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [JakeGinesin/jakegines.in](https://github.com/JakeGinesin/jakegines.in) - The open-source code for my personal website, jakegines.in
 - [waferbaby/usesthis](https://github.com/waferbaby/usesthis) - A nerdy little interview website, asking people from all walks of life what they use to get the job done.
@@ -357,6 +356,7 @@
 - [osresearch/pdfcal](https://github.com/osresearch/pdfcal) - Page-per-day calendar generator for Remarkable tablet
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [bb-Ricardo/check_redfish](https://github.com/bb-Ricardo/check_redfish) - A monitoring/inventory plugin to check components and health status of systems which support Redfish. It will also create an inventory of all components of a system.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [marcolivierarsenault/moonraker-home-assistant](https://github.com/marcolivierarsenault/moonraker-home-assistant) - Home Assistant integration for Moonraker, Klipper and Mainsail
