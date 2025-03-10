@@ -176,6 +176,8 @@
 
 ## Go 
 
+- [suntong/cascadia](https://github.com/suntong/cascadia) - Go cascadia package command line CSS selector
+- [andybalholm/cascadia](https://github.com/andybalholm/cascadia) - CSS selector library in Go
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 - [jbensmann/mouseless](https://github.com/jbensmann/mouseless) - A replacement for the mouse in Linux
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
