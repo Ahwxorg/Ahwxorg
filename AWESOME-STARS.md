@@ -325,7 +325,7 @@
 
 ## Others 
 
-- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [Evv1L/thinkpad-x230-upgrades](https://github.com/Evv1L/thinkpad-x230-upgrades) - List of upgrades for ThinkPad x230
 - [bdamja/Hippo-Practice](https://github.com/bdamja/Hippo-Practice) - Singleplayer practice map designed for practicing structures, such as hippos, on Hypixel Bridge maps.
