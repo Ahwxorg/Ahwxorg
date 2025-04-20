@@ -359,6 +359,7 @@
 
 ## Python 
 
+- [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
 - [theresnotime/as-a-treat](https://github.com/theresnotime/as-a-treat) - You can have a silly GitHub repo, as a treat.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [osresearch/pdfcal](https://github.com/osresearch/pdfcal) - Page-per-day calendar generator for Remarkable tablet
