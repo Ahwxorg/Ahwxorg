@@ -177,6 +177,7 @@
 
 ## Go 
 
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [someone1/zfsbackup-go](https://github.com/someone1/zfsbackup-go) - Backup ZFS snapshots to cloud storage such as Google, Amazon, Azure, etc. Built with the enterprise in mind.
@@ -360,6 +361,7 @@
 
 ## Python 
 
+- [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant
 - [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
 - [theresnotime/as-a-treat](https://github.com/theresnotime/as-a-treat) - You can have a silly GitHub repo, as a treat.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
@@ -460,7 +462,7 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [zzzeyez/bin](https://github.com/zzzeyez/bin) - scripts for daily use
 - [takeshixx/redstar-tools](https://github.com/takeshixx/redstar-tools) - Tools for Red Star OS (붉은별)
 - [notthebee/ansible-easy-vpn](https://github.com/notthebee/ansible-easy-vpn) - An Ansible playbook that sets up a Wireguard server with ad blocking, DNS-over-HTTPS, and a WebUI with 2FA
