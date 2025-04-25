@@ -49,7 +49,7 @@
 ## Assembly 
 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-- [stevennguyen/framework](https://github.com/stevennguyen/framework) - Ortholinear with a knob
+- [stevennguyen/framework](https://github.com/stevennguyen/framework) - Ortholinear keyboard with a knob
 
 ## Astro 
 
