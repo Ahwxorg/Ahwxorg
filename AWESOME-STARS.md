@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
@@ -410,6 +411,7 @@
 
 ## Rust 
 
+- [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -440,6 +442,7 @@
 
 ## Shell 
 
+- [Bizzaro/x230-osx](https://github.com/Bizzaro/x230-osx) - Thinkpad x230 running OS X 100% natively
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [wdbm/cyberDeck_2022](https://github.com/wdbm/cyberDeck_2022) - 
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
