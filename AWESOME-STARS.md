@@ -443,6 +443,7 @@
 
 ## Shell 
 
+- [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [Bizzaro/x230-osx](https://github.com/Bizzaro/x230-osx) - Thinkpad x230 running OS X 100% natively
 - [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 - [wdbm/cyberDeck_2022](https://github.com/wdbm/cyberDeck_2022) - 
