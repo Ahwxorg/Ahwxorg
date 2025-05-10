@@ -305,6 +305,7 @@
 
 ## Makefile 
 
+- [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [moduloindustries/thinkeys](https://github.com/moduloindustries/thinkeys) - Split ortholinear custom replacement keyboard with TrackPoint for laptops
 - [mkubecek/vmware-host-modules](https://github.com/mkubecek/vmware-host-modules) - Patches needed to build VMware (Player and Workstation) host modules against recent kernels
 - [AsahiLinux/asahi-audio](https://github.com/AsahiLinux/asahi-audio) - Userspace audio for Asahi Linux
