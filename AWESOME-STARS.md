@@ -508,7 +508,7 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [kothavade/hm-search](https://github.com/kothavade/hm-search) - Home-manager options search site
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
-- [nbaron1/onlyvisitonce](https://github.com/nbaron1/onlyvisitonce) - A website you can only visit once
+- [longergrass/onlyvisitonce](https://github.com/longergrass/onlyvisitonce) - A website you can only visit once
 - [koeqaife/hyprland-material-you](https://github.com/koeqaife/hyprland-material-you) - Dynamic and elegant desktop setup inspired by Material You, featuring auto-generated colors, fluid animations, and ripple effects for a cohesive, customizable user experience.
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -525,7 +525,7 @@
 - [NyaomiDEV/Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Social network for photos, foods and places
+- [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Social network for posts, photos, foods, places & health tracking
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
