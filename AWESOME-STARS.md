@@ -233,6 +233,7 @@
 
 ## HTML 
 
+- [Ladniy/jiran](https://github.com/Ladniy/jiran) - Ergo Split Keyboard
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [JakeGinesin/jakegines.in](https://github.com/JakeGinesin/jakegines.in) - The open-source code for my personal website, jakegines.in
@@ -343,6 +344,7 @@
 
 ## Others 
 
+- [KGOH/Jian-Info](https://github.com/KGOH/Jian-Info) - Jian keyboard info repository
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [bdamja/Hippo-Practice](https://github.com/bdamja/Hippo-Practice) - Singleplayer practice map designed for practicing structures, such as hippos, on Hypixel Bridge maps.
