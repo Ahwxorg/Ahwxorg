@@ -73,6 +73,7 @@
 
 ## C 
 
+- [DreamMaoMao/maomaowm](https://github.com/DreamMaoMao/maomaowm) - wayland compositor with smooth animation(no suckless)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
@@ -530,7 +531,7 @@
 - [NyaomiDEV/Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Social network for posts, photos, foods, places & health tracking
+- [kuskusapp/kuskus](https://github.com/kuskusapp/kuskus) - Share foods/places/photos. Manage all habits, health, fitness in one app.
 - [simonhaenisch/md-to-pdf](https://github.com/simonhaenisch/md-to-pdf) - Hackable CLI tool for converting Markdown files to PDF using Node.js and headless Chrome.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
