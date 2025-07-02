@@ -73,7 +73,7 @@
 
 ## C 
 
-- [DreamMaoMao/maomaowm](https://github.com/DreamMaoMao/maomaowm) - wayland compositor with smooth animation(no suckless)
+- [DreamMaoMao/maomaowm](https://github.com/DreamMaoMao/maomaowm) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
