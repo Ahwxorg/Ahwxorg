@@ -376,6 +376,7 @@
 
 ## Python 
 
+- [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant
 - [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
 - [theresnotime/as-a-treat](https://github.com/theresnotime/as-a-treat) - You can have a silly GitHub repo, as a treat.
@@ -420,7 +421,6 @@
 
 ## Rust 
 
-- [BlueprintFramework/web-rewrite](https://github.com/BlueprintFramework/web-rewrite) - 
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
@@ -553,6 +553,7 @@
 
 ## Vue 
 
+- [BlueprintFramework/web-rewrite](https://github.com/BlueprintFramework/web-rewrite) - 
 - [prplwtf/www](https://github.com/prplwtf/www) - My personal homepage, built with Nuxt.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
