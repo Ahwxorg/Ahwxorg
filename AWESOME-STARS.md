@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
 - [mdlayher/corerad](https://github.com/mdlayher/corerad) - CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
@@ -377,6 +378,7 @@
 
 ## Python 
 
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant
 - [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
