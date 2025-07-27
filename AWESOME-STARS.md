@@ -323,6 +323,7 @@
 
 ## Nix 
 
+- [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [JakeGinesin/nix-dots](https://github.com/JakeGinesin/nix-dots) - wtf is a computer pls help
 - [dc-tec/nixvim](https://github.com/dc-tec/nixvim) - My personal NixVim Configuration
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
