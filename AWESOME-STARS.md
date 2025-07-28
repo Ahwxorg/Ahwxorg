@@ -323,6 +323,7 @@
 
 ## Nix 
 
+- [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [JakeGinesin/nix-dots](https://github.com/JakeGinesin/nix-dots) - wtf is a computer pls help
 - [dc-tec/nixvim](https://github.com/dc-tec/nixvim) - My personal NixVim Configuration
