@@ -294,6 +294,8 @@
 
 ## Lua 
 
+- [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) - Calendar Implementation with lua
+- [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) - Calendar library for neovim
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
