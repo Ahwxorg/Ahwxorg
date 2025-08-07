@@ -294,6 +294,7 @@
 
 ## Lua 
 
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) - Calendar Implementation with lua
 - [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) - Calendar library for neovim
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
@@ -444,7 +445,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code.
-- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [xou816/spot](https://github.com/xou816/spot) - UNMAINTAINED! Please check out active forks
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
@@ -549,6 +550,7 @@
 
 ## Vim Script 
 
+- [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vigoux/LanguageTool.nvim](https://github.com/vigoux/LanguageTool.nvim) - An asynchronous grammar checker for Neovim using LanguageTool
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
