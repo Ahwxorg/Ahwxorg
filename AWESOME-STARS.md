@@ -429,7 +429,11 @@
 
 ## Rust 
 
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [BlueprintFramework/web-rewrite](https://github.com/BlueprintFramework/web-rewrite) - 
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
@@ -563,7 +567,6 @@
 
 ## Vue 
 
-- [BlueprintFramework/web-rewrite](https://github.com/BlueprintFramework/web-rewrite) - 
 - [prplwtf/www](https://github.com/prplwtf/www) - My personal homepage, built with Nuxt.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
