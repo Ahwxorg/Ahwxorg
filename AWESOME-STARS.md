@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [TETYYS/SAPI4](https://github.com/TETYYS/SAPI4) - Web interface for Microsoft Sam & friends
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [corrooli/HP-Z400-Opencore-EFI](https://github.com/corrooli/HP-Z400-Opencore-EFI) - 
 - [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
