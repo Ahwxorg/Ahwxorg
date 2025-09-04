@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [TETYYS/SAPI4](https://github.com/TETYYS/SAPI4) - Web interface for Microsoft Sam & friends
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [corrooli/HP-Z400-Opencore-EFI](https://github.com/corrooli/HP-Z400-Opencore-EFI) - 
@@ -435,6 +436,7 @@
 
 ## Rust 
 
+- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
