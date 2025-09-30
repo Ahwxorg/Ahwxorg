@@ -154,7 +154,7 @@
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [prplwtf/www-legacy](https://github.com/prplwtf/www-legacy) - My personal website - open source under MIT.
-- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Static HTML landing and documentation page for the Blueprint extension framework.
+- [BlueprintFramework/web-old](https://github.com/BlueprintFramework/web-old) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
 - [davidtys/qutebrowser_dark_solarized](https://github.com/davidtys/qutebrowser_dark_solarized) - Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)
 
@@ -443,7 +443,7 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [BlueprintFramework/web-rewrite](https://github.com/BlueprintFramework/web-rewrite) - 
+- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - 
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
