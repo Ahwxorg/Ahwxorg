@@ -483,7 +483,7 @@
 - [wdbm/cyberDeck_2022](https://github.com/wdbm/cyberDeck_2022) - 
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 - [ewagner12/all-ways-egpu](https://github.com/ewagner12/all-ways-egpu) - Configure eGPU as primary under Linux Wayland desktops
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [mrusme/dotfiles](https://github.com/mrusme/dotfiles) - dotfiles
 - [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
