@@ -263,7 +263,7 @@
 - [prplwtf/color-trainer](https://github.com/prplwtf/color-trainer) - Learn to pick hex colors in the wild!
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [prplwtf/writea](https://github.com/prplwtf/writea) - Fast and comfy open-source alternative for blogs. Write posts with ✏️ Markdown, configure your blog with ⚙️ YAML, theme your page with 🎨 CSS and much more!
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [ergogen/ergogen](https://github.com/ergogen/ergogen) - Ergonomic keyboard layout generator
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
