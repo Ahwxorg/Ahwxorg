@@ -323,6 +323,7 @@
 
 ## Nix 
 
+- [imnotpoz/nixwebr.ing](https://github.com/imnotpoz/nixwebr.ing) - the nix webring
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
@@ -384,6 +385,7 @@
 
 ## Python 
 
+- [chadrwalters/MermaidMD2PDF](https://github.com/chadrwalters/MermaidMD2PDF) - Python Script For Converting Markdown with Mermaid to PDF
 - [nevimmu/hyprfloat](https://github.com/nevimmu/hyprfloat) - Float the terminal in empty workplace
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT) - Smartphone based on the Raspberry Pi CM 5.
