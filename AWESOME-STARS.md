@@ -294,7 +294,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) - Calendar Implementation with lua
 - [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) - Calendar library for neovim
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
+- [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
@@ -323,6 +323,7 @@
 
 ## Nix 
 
+- [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [imnotpoz/nixwebr.ing](https://github.com/imnotpoz/nixwebr.ing) - the nix webring
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
@@ -436,6 +437,7 @@
 
 ## Rust 
 
+- [intel/tbtools](https://github.com/intel/tbtools) - Thunderbolt/USB4 debugging tools
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
@@ -443,6 +445,7 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
+- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - 
 - [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
@@ -580,7 +583,6 @@
 
 ## Vue 
 
-- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - 
 - [prplwtf/www](https://github.com/prplwtf/www) - My personal homepage, built with Nuxt.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
