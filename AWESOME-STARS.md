@@ -181,6 +181,7 @@
 
 ## Go 
 
+- [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [makew0rld/amfora](https://github.com/makew0rld/amfora) - A fancy terminal browser for the Gemini protocol.
@@ -582,7 +583,7 @@
 
 ## Vue 
 
-- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - 
+- [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Blueprint website frontend and backend API. Documentation, guides, changelogs and account management included.
 - [prplwtf/www](https://github.com/prplwtf/www) - My personal homepage, built with Nuxt.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
