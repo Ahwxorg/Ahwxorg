@@ -295,6 +295,7 @@
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) - Calendar Implementation with lua
 - [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) - Calendar library for neovim
+- [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
@@ -394,7 +395,6 @@
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant
-- [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
 - [theresnotime/as-a-treat](https://github.com/theresnotime/as-a-treat) - You can have a silly GitHub repo, as a treat.
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [osresearch/pdfcal](https://github.com/osresearch/pdfcal) - Page-per-day calendar generator for Remarkable tablet
