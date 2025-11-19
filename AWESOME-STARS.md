@@ -168,6 +168,7 @@
 
 ## Dockerfile 
 
+- [BlueprintFramework/docker](https://github.com/BlueprintFramework/docker) - Blueprint's extension ecosystem you know and love, in Docker. Install, manage and develop Pterodactyl modifications like never before.
 - [rapenne-s/build-gentoo-packages-for-me](https://github.com/rapenne-s/build-gentoo-packages-for-me) - Use github actions to generate Gentoo packages instead of compiling locally
 
 ## Emacs Lisp 
