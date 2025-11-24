@@ -249,6 +249,7 @@
 
 ## Java 
 
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [CASELOAD7000/knockback-sync](https://github.com/CASELOAD7000/knockback-sync) - Synchronizes player knockback for smoother gameplay.
 - [ma1co/OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak) - Unlock your Sony camera's settings
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
