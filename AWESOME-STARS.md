@@ -442,6 +442,7 @@
 
 ## Rust 
 
+- [coffebar/hyprland-monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) - Run the user's script when you attach the monitor on Hyprland
 - [intel/tbtools](https://github.com/intel/tbtools) - Thunderbolt/USB4 debugging tools
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
