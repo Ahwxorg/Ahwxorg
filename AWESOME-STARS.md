@@ -53,7 +53,6 @@
 
 ## Astro 
 
-- [shepherdjerred/webring](https://github.com/shepherdjerred/webring) - Collect the latest RSS items from your favorite feeds
 - [evadecker/eva.town](https://github.com/evadecker/eva.town) - A digital garden by Eva Decker, design engineer.
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and dropdowns.
@@ -555,6 +554,7 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [longergrass/onlyvisitonce](https://github.com/longergrass/onlyvisitonce) - A website you can only visit once
+- [shepherdjerred/webring](https://github.com/shepherdjerred/webring) - Collect the latest RSS items from your favorite feeds
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
