@@ -349,7 +349,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
-- [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
+- [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines. Mirror of https://git.notthebe.ee/notthebee/nix-config
 - [redyf/Neve](https://github.com/redyf/Neve) - Neve is a Neovim configuration built with Nixvim, it allows you to use Nix language to manage Neovim plugins/options.
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My MacOS and NixOS configurations, using home-manager, i3-gaps and sway
