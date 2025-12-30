@@ -54,6 +54,7 @@
 ## Astro 
 
 - [evadecker/eva.town](https://github.com/evadecker/eva.town) - A digital garden by Eva Decker, design engineer.
+- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and dropdowns.
 
 ## AutoHotkey 
@@ -152,7 +153,6 @@
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [prplwtf/www-legacy](https://github.com/prplwtf/www-legacy) - My personal website - open source under MIT.
-- [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [BlueprintFramework/web-legacy](https://github.com/BlueprintFramework/web-legacy) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
 - [davidtys/qutebrowser_dark_solarized](https://github.com/davidtys/qutebrowser_dark_solarized) - Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)
@@ -336,7 +336,7 @@
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
-- [JakeGinesin/nix-dots](https://github.com/JakeGinesin/nix-dots) - wtf is a computer pls help
+- [JakeGinesin/nix-config](https://github.com/JakeGinesin/nix-config) - wtf is a computer pls help
 - [dc-tec/nixvim](https://github.com/dc-tec/nixvim) - My personal NixVim Configuration
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
@@ -508,7 +508,7 @@
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [JakeGinesin/dotfiles](https://github.com/JakeGinesin/dotfiles) - My current dotfiles
 - [gentoo/gentoo-docker-images](https://github.com/gentoo/gentoo-docker-images) - [MIRROR] Common effort to get an official and automated gentoo base docker container
-- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. ~38,000 clones by ~25,000 unique cloners as of October '25, and averaging ~60-70 Homebrew installs monthly since June 2023
+- [olets/zsh-abbr](https://github.com/olets/zsh-abbr) - The zsh manager for auto-expanding abbreviations, inspired by fish. Full-featured CLI; configurable; dotfiles-friendly; integrates with suggestions and syntax highlighting.
 - [BlueprintFramework/framework](https://github.com/BlueprintFramework/framework) - Powerful, fast and developer-friendly extension framework for Pterodactyl. Utilize extension APIs, inject HTML, modify stylesheets, package extensions and so much more.
 - [jirutka/qemu-openrc](https://github.com/jirutka/qemu-openrc) - OpenRC init script for QEMU/KVM (for Gentoo and Alpine Linux)
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
