@@ -148,6 +148,7 @@
 
 ## CSS 
 
+- [TheFrankyDoll/win10-style-waybar](https://github.com/TheFrankyDoll/win10-style-waybar) - Waybar config to make Windows 10 refugees feel at home
 - [JamsRepos/Jamfin](https://github.com/JamsRepos/Jamfin) - Bringing a modern, sleek glassmorphism design to Jellyfin, enhancing your media server's aesthetics.
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
@@ -442,6 +443,7 @@
 
 ## Rust 
 
+- [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [coffebar/hyprland-monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) - Run the user's script when you attach the monitor on Hyprland
 - [intel/tbtools](https://github.com/intel/tbtools) - Thunderbolt/USB4 debugging tools
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -576,6 +578,7 @@
 
 ## Vim Script 
 
+- [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vigoux/LanguageTool.nvim](https://github.com/vigoux/LanguageTool.nvim) - An asynchronous grammar checker for Neovim using LanguageTool
