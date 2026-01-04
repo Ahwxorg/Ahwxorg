@@ -545,6 +545,7 @@
 
 ## TypeScript 
 
+- [backslash-app/backslash](https://github.com/backslash-app/backslash) - The Raycast Clone Your Linux Desktop Deserves 🐧✨
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
