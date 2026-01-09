@@ -31,6 +31,7 @@
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -359,6 +360,10 @@
 ## Objective-C 
 
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+
+## OpenSCAD 
+
+- [Captain-Pumpkinhead/Framework-13-Vanilla-Reconstruction](https://github.com/Captain-Pumpkinhead/Framework-13-Vanilla-Reconstruction) - The intention is to reconstruct every physical part of the Framework laptop, so that this repo can be used as a resource to begin mods from.  It forks from Framework's Mainboard and ExpansionCards rep
 
 ## Others 
 
