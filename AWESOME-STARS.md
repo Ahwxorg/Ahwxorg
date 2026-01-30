@@ -332,6 +332,7 @@
 
 ## Nix 
 
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [sodiboo/system](https://github.com/sodiboo/system) - i use NixOS btw
 - [imnotpoz/nixwebr.ing](https://github.com/imnotpoz/nixwebr.ing) - the nix webring
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
