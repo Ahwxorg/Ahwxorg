@@ -403,7 +403,6 @@
 
 ## Python 
 
-- [chadrwalters/MermaidMD2PDF](https://github.com/chadrwalters/MermaidMD2PDF) - Python Script For Converting Markdown with Mermaid to PDF
 - [nevimmu/hyprfloat](https://github.com/nevimmu/hyprfloat) - Float the terminal in empty workplace
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT) - Smartphone based on the Raspberry Pi CM 5.
