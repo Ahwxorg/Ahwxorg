@@ -467,7 +467,7 @@
 - [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [mat-1/metasearch2](https://github.com/mat-1/metasearch2) - a cute metasearch engine
 - [dangreco/gnome-egpu](https://github.com/dangreco/gnome-egpu) - eGPU switcher for GNOME using udev rules
 - [ammgws/autotiling-rs](https://github.com/ammgws/autotiling-rs) - Autotiling for sway (and possibly i3)
