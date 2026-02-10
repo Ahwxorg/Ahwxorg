@@ -452,6 +452,8 @@
 
 ## Rust 
 
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
+- [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
 - [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [coffebar/hyprland-monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) - Run the user's script when you attach the monitor on Hyprland
 - [intel/tbtools](https://github.com/intel/tbtools) - Thunderbolt/USB4 debugging tools
