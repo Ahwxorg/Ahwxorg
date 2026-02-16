@@ -379,6 +379,7 @@
 - [bdamja/Hippo-Practice](https://github.com/bdamja/Hippo-Practice) - Singleplayer practice map designed for practicing structures, such as hippos, on Hypixel Bridge maps.
 - [nyoom-engineering/base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) - The base16 dark and light versions of oxocarbon, inspired by IBM Carbon
 - [mrwm/roPlug](https://github.com/mrwm/roPlug) - ATMega32U4 on a USB C male plug.
+- [shepherdjerred/webring](https://github.com/shepherdjerred/webring) - Collect the latest RSS items from your favorite feeds
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [meyskens/intro-to-k8s](https://github.com/meyskens/intro-to-k8s) - 
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
@@ -568,7 +569,6 @@
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [longergrass/onlyvisitonce](https://github.com/longergrass/onlyvisitonce) - A website you can only visit once
-- [shepherdjerred/webring](https://github.com/shepherdjerred/webring) - Collect the latest RSS items from your favorite feeds
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
