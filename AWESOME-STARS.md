@@ -501,6 +501,7 @@
 
 ## Shell 
 
+- [christian-korneck/asahi-bt-a2dp-fix](https://github.com/christian-korneck/asahi-bt-a2dp-fix) - fix for stuttering bluetooth audio on Asahi Linux Fedora 42 (Macbook Air M2, BCM43XX)
 - [mitchweaver/bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
 - [mliradelc/photo-organizer](https://github.com/mliradelc/photo-organizer) - A high-performance shell script tool to organize photos based on EXIF metadata, with automatic parallel processing for efficient handling of large photo collections
 - [babarot/enhancd](https://github.com/babarot/enhancd) - :rocket: A next-generation cd command with your interactive filter
