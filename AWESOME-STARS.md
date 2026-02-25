@@ -27,6 +27,7 @@
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -320,6 +321,10 @@
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) - Train yourself to stop repeating keys... gently
 - [neilsabde/nfs](https://github.com/neilsabde/nfs) - Neovim config from my Neovim Lua From Scratch playlist on YouTube
 
+## MATLAB 
+
+- [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT) - Smartphone based on the Raspberry Pi CM 5.
+
 ## Makefile 
 
 - [Ryogo-X/nook_gentoo_twrp](https://github.com/Ryogo-X/nook_gentoo_twrp) - TWRP for Nook Glowlight 4
@@ -407,7 +412,6 @@
 
 - [nevimmu/hyprfloat](https://github.com/nevimmu/hyprfloat) - Float the terminal in empty workplace
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-- [V3lectronics/SPIRIT](https://github.com/V3lectronics/SPIRIT) - Smartphone based on the Raspberry Pi CM 5.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [justin025/onthespot](https://github.com/justin025/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant
