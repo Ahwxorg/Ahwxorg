@@ -404,6 +404,7 @@
 
 ## Perl 
 
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 - [ryosama/ics2baikal](https://github.com/ryosama/ics2baikal) - Transform ICS calendar file to Baikal database
 - [gch1p/thinkpad-bios-software-flashing-guide](https://github.com/gch1p/thinkpad-bios-software-flashing-guide) - flashing coreboot on thinkpads without external programmer
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
