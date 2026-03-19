@@ -412,6 +412,8 @@
 
 ## Python 
 
+- [waltmck/asahi-firmware-download](https://github.com/waltmck/asahi-firmware-download) - Mac firmware downloading for Asahi based on work by JJJollyjim
+- [JJJollyjim/firmware-abomination](https://github.com/JJJollyjim/firmware-abomination) - &gt;:3
 - [nevimmu/hyprfloat](https://github.com/nevimmu/hyprfloat) - Float the terminal in empty workplace
 - [buckket/twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -472,7 +474,6 @@
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [FrameworkComputer/framework-system](https://github.com/FrameworkComputer/framework-system) - Rust libraries and tools to interact with the Framework Computer systems
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [stellophiliac/roboring](https://github.com/stellophiliac/roboring) - webring for robots
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
