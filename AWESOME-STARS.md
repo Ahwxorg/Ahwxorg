@@ -55,7 +55,7 @@
 
 ## Astro 
 
-- [evadecker/eva.town](https://github.com/evadecker/eva.town) - A digital garden by Eva Decker, design engineer.
+- [kydecker/ky.fyi](https://github.com/kydecker/ky.fyi) - A digital garden by Ky Decker, design engineer.
 - [Keycapsss/awesome-mechanical-keyboard](https://github.com/Keycapsss/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar) - Astro-Navbar is a fully responsive headless navigation bar for Astro. It supports mobile responsive toggle and dropdowns.
 
