@@ -559,6 +559,7 @@
 
 ## Swift 
 
+- [CCMurphy-dev/Aegis](https://github.com/CCMurphy-dev/Aegis) - Aegis transforms your menu bar and notch area into a powerful control center for managing spaces, windows, and system status.
 - [pixlwave/Watch-The-Matrix](https://github.com/pixlwave/Watch-The-Matrix) - A watchOS client for Matrix chat
 - [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 
