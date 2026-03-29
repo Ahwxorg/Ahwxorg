@@ -156,7 +156,7 @@
 - [aadilayub/firefox-i3wm-theme](https://github.com/aadilayub/firefox-i3wm-theme) - i3 and qutebrowser inspired theme for firefox
 - [paradise-theme/paradise](https://github.com/paradise-theme/paradise) - The Paradise Theme
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
-- [prplwtf/www-legacy](https://github.com/prplwtf/www-legacy) - My personal website - open source under MIT.
+- [prplwtf/prpl.wtf-v1](https://github.com/prplwtf/prpl.wtf-v1) - My personal website - open source under MIT.
 - [BlueprintFramework/web-legacy](https://github.com/BlueprintFramework/web-legacy) - Static HTML landing and documentation page for the Blueprint extension framework.
 - [prplwtf/tinydocs](https://github.com/prplwtf/tinydocs) - Fast, static, client-rendered markdown documentation page made with HTML, JS and Bootstrap 5.
 - [davidtys/qutebrowser_dark_solarized](https://github.com/davidtys/qutebrowser_dark_solarized) - Dark solarized css stylesheet for qutebrowser. Make the web like your terminal ! :)
@@ -612,7 +612,7 @@
 ## Vue 
 
 - [BlueprintFramework/web](https://github.com/BlueprintFramework/web) - Blueprint website frontend and backend API. Documentation, guides, changelogs and account management included.
-- [prplwtf/www](https://github.com/prplwtf/www) - My personal homepage, built with Nuxt.
+- [prplwtf/prpl.wtf-v2](https://github.com/prplwtf/prpl.wtf-v2) - My personal homepage, built with Nuxt.
 - [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail) - Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 
