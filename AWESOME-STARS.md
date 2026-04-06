@@ -308,6 +308,7 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) - Calendar Implementation with lua
 - [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) - Calendar library for neovim
