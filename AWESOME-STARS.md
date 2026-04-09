@@ -127,7 +127,7 @@
 
 ## C++ 
 
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [TETYYS/SAPI4](https://github.com/TETYYS/SAPI4) - Web interface for Microsoft Sam & friends
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [corrooli/HP-Z400-Opencore-EFI](https://github.com/corrooli/HP-Z400-Opencore-EFI) - 
