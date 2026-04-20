@@ -603,6 +603,7 @@
 
 ## Vim Script 
 
+- [nikvdp/ejs-syntax](https://github.com/nikvdp/ejs-syntax) - Vim syntax highlighting for javascript EJS html templates
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
