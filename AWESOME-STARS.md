@@ -580,7 +580,7 @@
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [resend/resend-node](https://github.com/resend/resend-node) - Resend's Official Node.js SDK
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [longergrass/onlyvisitonce](https://github.com/longergrass/onlyvisitonce) - A website you can only visit once
 - [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
