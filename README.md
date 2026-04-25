@@ -1,6 +1,6 @@
 ![status](https://img.shields.io/badge/status-tired-8A2BE2)
 
-Also visit my [website](https://ahwx.org/) or [blog](https://blog.ahwx.org)
+Also visit my [website](https://liv.town/) or [blog](https://blog.ahwx.org)
 
 ![Metrics](https://raw.githubusercontent.com/Ahwxorg/Ahwxorg/main/github-metrics.svg)
 
