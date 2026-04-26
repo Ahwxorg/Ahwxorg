@@ -303,7 +303,7 @@
 - [pebble-dev/mobile-app](https://github.com/pebble-dev/mobile-app) - Cobble: Rebble device companion app for iOS and Android
 - [KieronQuinn/DarQ](https://github.com/KieronQuinn/DarQ) - DarQ provides a per-app selectable force dark option for Android 10 and above
 - [ouchadam/small-talk](https://github.com/ouchadam/small-talk) - Minimal Android messenger powered by Matrix
-- [oxygen-updater/os-updater](https://github.com/oxygen-updater/os-updater) - OS Updater is a third-party app that lets you skip staged rollout queues and update your OPPO/OnePlus device ASAP! Ensure your device is up-to-date — it's quick, easy, and free!
+- [oxygen-updater/os-updater](https://github.com/oxygen-updater/os-updater) - Third-party Android app that lets you skip rollout queues & update your OPPO/OnePlus/realme device ASAP! Ensure your device is up-to-date — it's quick, easy, and free!
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
