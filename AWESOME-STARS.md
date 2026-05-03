@@ -361,7 +361,6 @@
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
-- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
 - [ashhhleyyy/forest](https://github.com/ashhhleyyy/forest) - My nixos configs and things
@@ -531,6 +530,7 @@
 - [n4ru/1vyrain](https://github.com/n4ru/1vyrain) - LiveUSB Bootable exploit chain to unlock all features of xx30 ThinkPad machines. WiFi Whitelist, Advanced Menu, Overclocking.
 - [ewagner12/all-ways-egpu](https://github.com/ewagner12/all-ways-egpu) - Configure eGPU as primary under Linux Wayland desktops
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [paoloap/zaread](https://github.com/paoloap/zaread) - A (very) lightweight MS Office file reader
 - [mrusme/dotfiles](https://github.com/mrusme/dotfiles) - dotfiles
 - [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) - 📷 Bash Script to generate static responsive image web galleries.
