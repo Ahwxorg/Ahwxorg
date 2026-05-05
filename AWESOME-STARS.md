@@ -286,7 +286,7 @@
 
 ## Jinja 
 
-- [v0rap/doll-report](https://github.com/v0rap/doll-report) - a communal uptime tracker
+- [angelspittt/doll-report](https://github.com/angelspittt/doll-report) - a communal uptime tracker
 
 ## Jupyter Notebook 
 
