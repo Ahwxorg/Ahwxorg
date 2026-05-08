@@ -233,6 +233,7 @@
 - [diamondburned/dissent](https://github.com/diamondburned/dissent) - Tiny native Discord app
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -450,7 +451,6 @@
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [linuxmint/webapp-manager](https://github.com/linuxmint/webapp-manager) - 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [smartavionics/Cura](https://github.com/smartavionics/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
