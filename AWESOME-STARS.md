@@ -393,7 +393,6 @@
 - [bdamja/Hippo-Practice](https://github.com/bdamja/Hippo-Practice) - Singleplayer practice map designed for practicing structures, such as hippos, on Hypixel Bridge maps.
 - [nyoom-engineering/base16-oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) - The base16 dark and light versions of oxocarbon, inspired by IBM Carbon
 - [mrwm/roPlug](https://github.com/mrwm/roPlug) - ATMega32U4 on a USB C male plug.
-- [shepherdjerred/webring](https://github.com/shepherdjerred/webring) - Collect the latest RSS items from your favorite feeds
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [meyskens/intro-to-k8s](https://github.com/meyskens/intro-to-k8s) - 
 - [kenp-io/not-for-iphone-usb-c](https://github.com/kenp-io/not-for-iphone-usb-c) - 
