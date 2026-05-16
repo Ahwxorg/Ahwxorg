@@ -269,6 +269,7 @@
 
 ## JavaScript 
 
+- [maniacx/BudsLink](https://github.com/maniacx/BudsLink) - 
 - [zachlatta/fastprint](https://github.com/zachlatta/fastprint) - Email a file to print@yourdomain.com to print it
 - [eromatiya/lightdm-webkit2-theme-glorious](https://github.com/eromatiya/lightdm-webkit2-theme-glorious) - A sleek, modern and glorified LightDM webkit2 theme
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
