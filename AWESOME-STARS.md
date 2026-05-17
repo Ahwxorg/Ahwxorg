@@ -386,6 +386,7 @@
 
 ## Others 
 
+- [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) - YellowKey Bitlocker Bypass Vulnerability
 - [victorlucachi/void40](https://github.com/victorlucachi/void40) - A 40% handwired ortholinear keyboard, running QMK firmware
 - [Zokhoi/framework-cellular-card](https://github.com/Zokhoi/framework-cellular-card) - USB cellular modem for Framework computers
 - [KGOH/Jian-Info](https://github.com/KGOH/Jian-Info) - Jian keyboard info repository
